@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ldr.h": "c",
+        "delay.h": "c",
+        "buttons.h": "c"
+    }
+}
