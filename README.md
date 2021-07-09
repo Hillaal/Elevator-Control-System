@@ -1,5 +1,5 @@
 
-## Design for a simple elevator system  
+## Design for a simple elevator control system  
 
  - The building consists of four floors plus the ground floor,   Each
    floor has two buttons to call the elevator, one for going up and  
