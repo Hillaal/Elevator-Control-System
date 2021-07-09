@@ -35,3 +35,9 @@
    the   building structure, the elevator components of, how these   
    components are   related, and how the elevator moves and handles   
    requests.
+   
+   **Simulation Samples**
+
+   ![alt-text](https://github.com/Hillaal/Elevator-Control-System/blob/main/Samples/1.png)
+   
+   ![alt-text](https://github.com/Hillaal/Elevator-Control-System/blob/main/Samples/2.png)
